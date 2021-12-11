@@ -2,7 +2,7 @@
 
 # This react-app exhibits the following functionality
 
-## Created using Class Componenets using the React Lifecycle methods
+## Created using Class Components using the React Lifecycle methods
 
 ### The signup form will load only after the component is rendered on the screen.
 
