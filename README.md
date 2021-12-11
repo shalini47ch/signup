@@ -27,3 +27,14 @@ After Submit
 
 <img width="959" alt="image" src="https://user-images.githubusercontent.com/60210475/145685358-e07e8c5e-77b6-4b77-bd4a-cfea84e39322.png">
 
+Mobile
+<img width="502" alt="image" src="https://user-images.githubusercontent.com/60210475/145685404-d9f9c838-3a23-46db-ad67-d5d3ee02a066.png">
+
+Tablet
+<img width="537" alt="image" src="https://user-images.githubusercontent.com/60210475/145685415-5ce94418-b177-4426-ad76-d7c54f1a1d7f.png">
+
+Desktop
+
+<img width="541" alt="image" src="https://user-images.githubusercontent.com/60210475/145685439-7365f4fa-2cae-4127-b556-e4402f8c86aa.png">
+
+
