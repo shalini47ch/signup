@@ -1,0 +1,38 @@
+.Input {
+  display: flex;
+  flex-direction: row-reverse;
+  border-bottom: 1px solid rgba(255, 252, 232, 0.1);
+  padding-bottom: 3px;
+  margin-bottom: 5px;
+}
+.Input input {
+  outline: none;
+  border: 0;
+  color: #fffce8;
+  background: transparent;
+  font-family: "Lato", sans-serif;
+  flex: 1 0 auto;
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.Input label {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 12px;
+  opacity: 0.5;
+}
+.Input label::before{
+  align-items:center;
+  display:flex;
+  justify-content:center;
+  width:30px;
+  color:#FFFCE8;
+
+}
+
+button:hover {
+  transform: scale(1.04);
+}
+button:active {
+  transform: scale(0.99);
+}
